@@ -38,6 +38,15 @@ print(response.json())
 ```
 Rode esse script para fazer uma requisão GET à API.
 
+### Usando o postman
+**GET**
+
+![get](https://user-images.githubusercontent.com/34240682/71228271-775efb00-22c0-11ea-814e-e446f0103477.png)
+
+**POST**
+
+![post](https://user-images.githubusercontent.com/34240682/71228306-88a80780-22c0-11ea-95bb-69c0bca48073.png)
+
 ### Contados
 * E-mail: igorestacioceut@gmail.com
 * Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
