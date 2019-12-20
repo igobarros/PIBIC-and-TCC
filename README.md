@@ -16,7 +16,7 @@ Palavras-chave: Web crawler, machine learning, político.
 ### Trabalhos Futuros
 * Coleta de dados de outras redes sociais, ou fonte que tenham interação entre eleitores e candidatos.
 * Pré-processamento.
-* Usar outros algoritmos de machine learning/deep learning não supervicionado e/ou supervicionado.
+* Usar outros algoritmos de machine learning/deep learning não supervisionado e/ou supervisionado.
 * Desenvolvimento de um app mobile, com o objetivo de auxiliar o voto por parte dos eleitores.
 
 ### Estrutura das pastas
