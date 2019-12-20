@@ -8,8 +8,9 @@ Os dados rastreados não são tão * limpos * quanto os obtidos pelas APIs, mas os 
 ### Dependências
 
 ```
-$ git clone https://github.com/IgoPereiraBarros
+$ git clone https://github.com/IgoPereiraBarros/PIBIC-and-TCC.git
 $ cd crawler
+$ python3 -m venv .venv
 $ pip install -r requirements.txt
 $ scrapy list
 ```
@@ -20,7 +21,7 @@ $ scrapy list
     ```
      USER_AGENT = 'web site/email/etc'
      
-     Retire o comentário da linha 17 no parâmetro ```ITEM_PIPELINES```, caso queira salvar no banco mongodb:
+     Retire o comentário da linha 17 no parâmetro ITEM_PIPELINES, caso queira salvar no banco mongodb:
 
      ITEM_PIPELINES = {
         'TwitterScrapy.pipelines.SaveToMongoPipeline': 300,

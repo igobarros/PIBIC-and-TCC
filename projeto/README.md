@@ -2,10 +2,10 @@
 
 ### Como rodar o projeto
 ```
-git clone https://github.com/IgoPereiraBarros
-cd projeto
-python3 -m venv .venv
-pip install -r requirements.txt
+$ git clone https://github.com/IgoPereiraBarros/PIBIC-and-TCC.git
+$ cd projeto
+$ python3 -m venv .venv
+$ pip install -r requirements.txt
 ```
 
 ### Configurando
@@ -23,6 +23,7 @@ OBS: Use as mesmas credenciais, banco e collection usado no projeto da pasta ```
 ### Executando o projeto
 
 Execute o script ```python3 build_model.py```, após concluído rode a API ```python3 api.py```
+Crie duas pastas na raiz do projeto, ```models_pkl``` e ```vectorizers_pkl.```
 
 ### Testando a aplicação
 
