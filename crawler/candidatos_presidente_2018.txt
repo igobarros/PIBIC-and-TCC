@@ -1,0 +1,17 @@
+Candidatos a presidente das ultimas eleições de 2018
+
+CANDIDATO        PARTIDO
+
+Jair Bolsonaro - PSL  
+Fernando Haddad - PT 
+Alvaro Dias - PODE 
+Cabo Daciolo - PATRI 
+Ciro Gomes - PDT 
+Jose Maria Eymael - DC 
+Geraldo Alckmin - PSDB 
+Guilherme Boulos - PSOL 
+Henrique Meirelles - MDB 
+João Amoedo - NOVO 
+João Goulart Filho - PPL 
+Marina Silva - REDE 
+Vera Lúcia - PSTU
