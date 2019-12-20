@@ -28,7 +28,7 @@ projeto - Nesta pasta se encontra o código desenvolvido no jupyter notebook, por
 Gostaria de agradecer o apoio e orientação do meu orientador prof. Dr. Fábbio Anderson Silva Borges.
 
 ### Contados
-E-mail: igorestacioceut@gmail.com
-Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
-Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
-Telegram: @IgoBarros
+* E-mail: igorestacioceut@gmail.com
+* Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
+* Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
+* Telegram: @IgoBarros

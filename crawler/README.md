@@ -55,7 +55,7 @@ $ scrapy list
 	| lang | lang="pt-br", "en", etc | Pesquisa por idioma |
 	| top_tweet | top_tweet=False(antigos) ou True(atuais)  | Pesquisa por tweets mais recentes ou antigos |
 
-### Rodando projeto na núvem
+### Rodando o projeto na nuvem
 Existe uma plataforma chamada [scrapyhub](https://scrapinghub.com/) para hospedar projetos usando scrapy. Para este estudo o projeto foi hospedado no scrapyhub para melhorar a experiência de uso do crawler.
 
 1. Acesse o site do [scrapyhub](https://scrapinghub.com/) e faça uma conta
@@ -69,13 +69,13 @@ Existe uma plataforma chamada [scrapyhub](https://scrapinghub.com/) para hospeda
     ```
     Se tudo ocorrer bem, já foi feito o deploy do seu projeto.
 
-    Obs: O banco de dados mongodb também está na núvem, no Mongodb Atlas. No entanto, para os testes usamos um banco local mesmo.
+    Obs: O banco de dados mongodb também está na nuvem, no Mongodb Atlas. No entanto, para os testes usamos um banco local mesmo.
 
 ### Agradecimentos
-Gostaria de parabenizar e agradecer pelo trabalha open source de [jonbakerfish](https://github.com/jonbakerfish/TweetScraper), e todos os seus [colaboradores](https://github.com/jonbakerfish/TweetScraper/graphs/contributors).
+Gostaria de parabenizar e agradecer pelo trabalho open source de [jonbakerfish](https://github.com/jonbakerfish/TweetScraper), e todos os seus [colaboradores](https://github.com/jonbakerfish/TweetScraper/graphs/contributors).
 
 ### Contados
-E-mail: igorestacioceut@gmail.com
-Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
-Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
-Telegram: @IgoBarros
+* E-mail: igorestacioceut@gmail.com
+* Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
+* Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
+* Telegram: @IgoBarros

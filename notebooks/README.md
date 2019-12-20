@@ -22,10 +22,10 @@
 * 6 - Resultados
 
 ### Agradecimentos
-Gostaria de parabenizar e agradecer a base de stopwords disponibilizada pelo repositório de [Stopwords ISO](https://github.com/stopwords-iso/stopwords-iso) com contribuições de [Gene Diaz](https://github.com/genediazjr).
+Gostaria de parabenizar e agradecer pela base de stopwords disponibilizada pelo repositório de [Stopwords ISO](https://github.com/stopwords-iso/stopwords-iso) com contribuições de [Gene Diaz](https://github.com/genediazjr).
 
 ### Contados
-E-mail: igorestacioceut@gmail.com
-Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
-Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
-Telegram: @IgoBarros
+* E-mail: igorestacioceut@gmail.com
+* Linkendin: [Igo Pereira Barros](https://www.linkedin.com/in/igo-pereira-barros-developer/)
+* Instagram: [igor.p.barros](https://www.instagram.com/igor.p.barros/)
+* Telegram: @IgoBarros
