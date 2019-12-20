@@ -1,31 +1,31 @@
-## Projeto de iniciação científica e de TCC
+## Projeto de iniciaÃ§Ã£o cientÃ­fica e de TCC
 
 ### Resumo do projeto
-Com a ampliação do acesso à Internet, o cenário político está em evolução, com o qual também aparecem deficiências, causadas por perfis falsos, informações falsas - também conhecidas como Notícias falsas. Foi um dos principais meios de comunicação entre os políticos e a sociedade, onde cada candidato explicou seus objetivos e seu trabalho. Nessas circunstâncias, havia espaço para postagens na web, onde a necessidade de tempo real pode ser atendida.
+Com a ampliaÃ§Ã£o do acesso Ã  Internet, o cenÃ¡rio polÃ­tico estÃ¡ em evoluÃ§Ã£o, com o qual tambÃ©m aparecem deficiÃªncias, causadas por perfis falsos, informaÃ§Ãµes falsas - tambÃ©m conhecidas como NotÃ­cias falsas. Foi um dos principais meios de comunicaÃ§Ã£o entre os polÃ­ticos e a sociedade, onde cada candidato explicou seus objetivos e seu trabalho. Nessas circunstÃ¢ncias, havia espaÃ§o para postagens na web, onde a necessidade de tempo real pode ser atendida.
 
-A Internet deve ser um dos canais mais importantes de interação entre candidatos e eleitores, especialmente redes sociais como Facebook e Twitter, para agilidade e abrangência. Através da pesquisa na Web, os eleitores podem facilmente obter dados, relatórios e conhecimento, o que pode auxiliar na escolha do voto. Nesse sentido, é necessário desenvolver um aplicativo para mineração de texto na WEB, delineando ao eleitor o perfil do candidato de acordo com o conhecimento extraído da notícia e posto nas redes sociais.
+A Internet deve ser um dos canais mais importantes de interaÃ§Ã£o entre candidatos e eleitores, especialmente redes sociais como Facebook e Twitter, para agilidade e abrangÃªncia. AtravÃ©s da pesquisa na Web, os eleitores podem facilmente obter dados, relatÃ³rios e conhecimento, o que pode auxiliar na escolha do voto. Nesse sentido, Ã© necessÃ¡rio desenvolver um aplicativo para mineraÃ§Ã£o de texto na WEB, delineando ao eleitor o perfil do candidato de acordo com o conhecimento extraÃ­do da notÃ­cia e posto nas redes sociais.
 
-Para isso, serão usados Web Crawlers que são algoritmos que têm a capacidade de pesquisar várias páginas de acordo com um termo específico.
+Para isso, serÃ£o usados Web Crawlers que sÃ£o algoritmos que tÃªm a capacidade de pesquisar vÃ¡rias pÃ¡ginas de acordo com um termo especÃ­fico.
 
-Em seguida, algoritmos de Machine Learning aplicados a esse conjunto de dados para detectar insights ocultos ou expressar informações com mais precisão. A aplicação final deve resultar a possibilidade de facilitar o desenvolvimento de uma ferramenta auto organizada e mais eficiente em auxiliar a organização do conhecimento feita de acordo com o nome de um candidato específico.
+Em seguida, algoritmos de Machine Learning aplicados a esse conjunto de dados para detectar insights ocultos ou expressar informaÃ§Ãµes com mais precisÃ£o. A aplicaÃ§Ã£o final deve resultar a possibilidade de facilitar o desenvolvimento de uma ferramenta auto organizada e mais eficiente em auxiliar a organizaÃ§Ã£o do conhecimento feita de acordo com o nome de um candidato especÃ­fico.
 
-A aplicação deverá delinear o perfil político do candidato, destacando sua área de atuação, para isso deve relacionar os posts rastreados com uma ou mais áreas de atuação específica (saúde, educação, segurança pública). Espera-se que a aplicação possa apoiar a escolha do voto do eleitor.
+A aplicaÃ§Ã£o deverÃ¡ delinear o perfil polÃ­tico do candidato, destacando sua Ã¡rea de atuaÃ§Ã£o, para isso deve relacionar os posts rastreados com uma ou mais Ã¡reas de atuaÃ§Ã£o especÃ­fica (saÃºde, educaÃ§Ã£o, seguranÃ§a pÃºblica). Espera-se que a aplicaÃ§Ã£o possa apoiar a escolha do voto do eleitor.
 
-Palavras-chave: Web crawler, machine learning, político.
+Palavras-chave: Web crawler, machine learning, polÃ­tico.
 
 ### Trabalhos Futuros
-* Coleta de dados de outras redes sociais, ou fonte que tenham interação entre eleitores e candidatos.
-* Pré-processamento.
-* Usar outros algoritmos de machine learning/deep learning não supervicionado e/ou supervicionado.
+* Coleta de dados de outras redes sociais, ou fonte que tenham interaÃ§Ã£o entre eleitores e candidatos.
+* PrÃ©-processamento.
+* Usar outros algoritmos de machine learning/deep learning nÃ£o supervicionado e/ou supervicionado.
 * Desenvolvimento de um app mobile, com o objetivo de auxiliar o voto por parte dos eleitores.
 
 ### Estrutura das pastas
-crawler - Algoritmo de raspagem de dados do twitter usando o framework scrapy e o banco de dados Mongodb.
-notebooks - O estudo/experimentos/testes que foram realizado no projeto como acesso a base de dados, pré-processamento, análise exploratória dos dados, modelagem, avaliações, etc.
-projeto - Nesta pasta se encontra o código desenvolvido no jupyter notebook, porém em forma de scrips, módulos, POO(Programação Orientado a Objetos), etc.
+* **crawler** - Algoritmo de raspagem de dados do twitter usando o framework scrapy e o banco de dados Mongodb.
+* **notebooks** - O estudo/experimentos/testes que foram realizado no projeto como acesso a base de dados, prÃ©-processamento, anÃ¡lise exploratÃ³ria dos dados, modelagem, avaliaÃ§Ãµes, etc.
+* **projeto** - Nesta pasta se encontra o cÃ³digo desenvolvido no jupyter notebook, porÃ©m em forma de scrips, mÃ³dulos, POO(ProgramaÃ§Ã£o Orientado a Objetos), etc.
 
 ### Agradecimentos
-Gostaria de agradecer o apoio e orientação do meu orientador prof. Dr. Fábbio Anderson Silva Borges.
+Gostaria de agradecer o apoio e orientaÃ§Ã£o do meu orientador prof. Dr. FÃ¡bbio Anderson Silva Borges.
 
 ### Contados
 * E-mail: igorestacioceut@gmail.com
