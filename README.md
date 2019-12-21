@@ -1,5 +1,7 @@
 ## Projeto de iniciação científica e de TCC
 
+### Tema: Aplicando web crawler e machine learning para delinear o perfil político do candidato.
+
 ### Resumo do projeto
 Com a ampliação do acesso à Internet, o cenário político está em evolução, com o qual também aparecem deficiências, causadas por perfis falsos, informações falsas - também conhecidas como Notícias falsas. Foi um dos principais meios de comunicação entre os políticos e a sociedade, onde cada candidato explicou seus objetivos e seu trabalho. Nessas circunstâncias, havia espaço para postagens na web, onde a necessidade de tempo real pode ser atendida.
 
