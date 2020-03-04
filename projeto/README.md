@@ -22,8 +22,8 @@ OBS: Use as mesmas credenciais, banco e collection usado no projeto da pasta ```
 
 ### Executando o projeto
 
-- Execute o script ```python3 build_model.py```, após concluído rode a API ```python3 api.py```
 - Crie duas pastas na raiz do projeto, ```models_pkl``` e ```vectorizers_pkl.```
+- Execute o script ```python3 build_model.py```, após concluído rode a API ```python3 api.py```
 
 ### Testando a aplicação
 
