@@ -16,15 +16,15 @@ A aplicação deverá delinear o perfil político do candidato, destacando sua �
 Palavras-chave: Web crawler, machine learning, político.
 
 ### Trabalhos Futuros
-* Coleta de dados de outras redes sociais, ou fonte que tenham interação entre eleitores e candidatos.
+* Coleta de dados em outras redes sociais, ou fonte que tenham interação entre eleitores e candidatos.
 * Pré-processamento.
 * Usar outros algoritmos de machine learning/deep learning não supervisionado e/ou supervisionado.
 * Desenvolvimento de um app mobile, com o objetivo de auxiliar o voto por parte dos eleitores.
 
 ### Estrutura das pastas
-* **crawler** - Algoritmo de raspagem de dados do twitter usando o framework scrapy e o banco de dados Mongodb.
+* **crawler** - Projeto responsável pela coleta dos dados do twitter usando o framework scrapy e o banco de dados Mongodb.
 * **notebooks** - O estudo/experimentos/testes que foram realizado no projeto como acesso a base de dados, pré-processamento, análise exploratória dos dados, modelagem, avaliações, etc.
-* **projeto** - Nesta pasta se encontra o código desenvolvido no jupyter notebook, porém em forma de scrips, módulos, POO(Programação Orientado a Objetos), etc.
+* **projeto** - Nesta pasta se encontra o código desenvolvido no jupyter notebook, porém em forma de scripts, módulos, POO(Programação Orientado a Objetos), etc.
 
 ### Agradecimentos
 Gostaria de agradecer o apoio e orientação do meu orientador prof. Dr. Fábbio Anderson Silva Borges.
