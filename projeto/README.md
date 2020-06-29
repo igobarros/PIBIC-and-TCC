@@ -1,7 +1,7 @@
 ## Projeto
 
 ### Como rodar o projeto
-```
+```bash
 $ git clone https://github.com/IgoPereiraBarros/PIBIC-and-TCC.git
 $ cd projeto
 $ python3 -m venv .venv
@@ -11,7 +11,7 @@ $ pip install -r requirements.txt
 ### Configurando
 
 Antes de executar o script ```build_model.py``` precisamos alterar as credenciais do banco de dados usando às suas, na raiz do projeto no arquivo ```settings.py```:
-```
+```py
 CONFIG_DEV = {
 	'MONGO_URI': 'mongodb://user:password@localhost:27017/admin',
 	'MONGO_DBNAME': 'DBNAME',
@@ -28,7 +28,7 @@ OBS: Use as mesmas credenciais, banco e collection usado no projeto da pasta ```
 ### Testando a aplicação
 
 GET
-```
+```py
 import requests
 
 url = 'http://localhost:5000/predict'
